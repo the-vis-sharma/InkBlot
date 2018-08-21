@@ -1,0 +1,55 @@
+{
+	"users1": [
+		"userId" : {
+			"sub_eassy" : "",
+			"hint_eassy" : "",
+			"backspace" : no,
+			"word_repeated" : no,
+			"and_count" : no,
+			"abbr_used" : no,
+			"word_count" : no,
+			"grammar_mistakes" : no,
+			"spelling_mistakes" : no,
+			"mistakes_hint" : [
+					"mistake 1",
+					"mistake 1",
+					"mistake 1",
+					"mistake 1"
+				]
+		},
+		"userId2" : {
+			"sub_eassy" : "",
+			"hint_eassy" : "",
+			"backspace" : no,
+			"word_repeated" : no,
+			"and_count" : no,
+			"abbr_used" : no,
+			"word_count" : no,
+			"grammar_mistakes" : no,
+			"spelling_mistakes" : no,
+			"mistakes_hint" : [
+					"mistake 1",
+					"mistake 1",
+					"mistake 1",
+					"mistake 1"
+				]
+		},
+		"userId3" : {
+			"sub_eassy" : "",
+			"hint_eassy" : "",
+			"backspace" : no,
+			"word_repeated" : no,
+			"and_count" : no,
+			"abbr_used" : no,
+			"word_count" : no,
+			"grammar_mistakes" : no,
+			"spelling_mistakes" : no,
+			"mistakes_hint" : [
+					"mistake 1",
+					"mistake 1",
+					"mistake 1",
+					"mistake 1"
+				]
+		}
+	]
+}
